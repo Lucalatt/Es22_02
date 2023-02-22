@@ -5,7 +5,7 @@ public class App {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("NON CAMBIATE I GRUPPI PER FAVORE!!!!");
-		System.out.println("dio cane");
+		
 		System.out.println("non funziona niente");
 	}
 
